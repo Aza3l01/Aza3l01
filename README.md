@@ -1,10 +1,22 @@
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aza3l01&theme=tokyonight" alt="GitHub streak" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api?username=Aza3l01&show_icons=true&theme=tokyonight" alt="GitHub stats" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aza3l01&layout=compact&theme=tokyonight" alt="Top Languages" height="150" />
+  <strong>Currently working on:</strong> 
+  <a href="https://www.satquest.app/" target="_blank">SatQuest</a>
 </p>
 
----
+<hr style="border:1px solid #ccc" />
+
+<p align="center" style="display: flex; justify-content: center; gap: 20px;">
+  <!-- GitHub Streak Stats -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aza3l01&theme=tokyonight" height="148" />
+
+  <!-- Top Languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aza3l01&layout=compact&theme=tokyonight" height="148" />
+
+  <!-- GitHub General Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=Aza3l01&show_icons=true&theme=tokyonight" height="148" />
+</p>
+
+<hr style="border:1px solid #ccc" />
 
 <p align="center">
   <!-- Programming Languages -->
