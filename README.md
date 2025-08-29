@@ -1,14 +1,17 @@
-<p align="center">
-  <strong>Currently working on:</strong> 
-  <a href="https://www.satquest.app/" target="_blank">SatQuest</a>
-</p>
+<p align="center">Currently working on:</p>
+
+<div style="display: flex; justify-content: center;">
+  <a href="https://github.com/Aza3l01/satquest">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Aza3l01&repo=satquest&theme=tokyonight" alt="satquest"/>
+  </a>
+</div>
 
 <hr style="border:1px solid #ccc" />
 
 <p align="center" style="display: flex; justify-content: center; gap: 20px;">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aza3l01&layout=compact&theme=tokyonight" height="150" />
-  <img src="https://streak-stats.demolab.com/?user=Aza3l01&theme=tokyonight" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api?username=Aza3l01&show_icons=true&theme=tokyonight" height="124" />
+<!--   <img src="https://streak-stats.demolab.com/?user=Aza3l01&theme=tokyonight" height="150" /> -->
+  <img src="https://github-readme-stats.vercel.app/api?username=Aza3l01&show_icons=true&theme=tokyonight" height="150" />
 </p>
 
 <hr style="border:1px solid #ccc" />
