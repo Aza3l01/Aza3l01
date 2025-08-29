@@ -7,7 +7,7 @@
 
 <p align="center" style="display: flex; justify-content: center; gap: 20px;">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aza3l01&layout=compact&theme=tokyonight" height="150" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aza3l01&theme=tokyonight" height="150" />
+  <img src="https://streak-stats.demolab.com/?user=Aza3l01&theme=tokyonight" height="150" />
   <img src="https://github-readme-stats.vercel.app/api?username=Aza3l01&show_icons=true&theme=tokyonight" height="124" />
 </p>
 
