@@ -2,6 +2,7 @@
 
 <div style="display: flex; justify-content: center;">
   <a href="https://github.com/Aza3l01/satquest">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Aza3l01&repo=drivemanager&theme=tokyonight" alt="drivemanager"/>
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Aza3l01&repo=satquest&theme=tokyonight" alt="satquest"/>
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Aza3l01&repo=coinly&theme=tokyonight" alt="coinly"/>
 
