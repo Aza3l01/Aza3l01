@@ -1,15 +1,3 @@
-<p align="center">Currently working on: SatQuest, DriveManager, Coinly, Partly</p>
-
-<hr style="border:1px solid #ccc" />
-
-<p align="center" style="display: flex; justify-content: center; gap: 20px;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aza3l01&layout=compact&theme=tokyonight" height="150" />
-<!--   <img src="https://streak-stats.demolab.com/?user=Aza3l01&theme=tokyonight" height="150" /> -->
-  <img src="https://github-readme-stats.vercel.app/api?username=Aza3l01&show_icons=true&theme=tokyonight" height="150" />
-</p>
-
-<hr style="border:1px solid #ccc" />
-
 <p align="center">
   <!-- Programming Languages -->
   <img src="https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=yellow" />
